@@ -35,10 +35,10 @@ Email: srvigneshksr@gmail.com
 - Worked in highly available, scalable distributed systems, exposure to high and low level designs
 - Involved in multiple change request, software release, post implementation support and DR activities
 
-
-
 ### Technical Skills:
-	Primarily coded in Java - Data structures, Algorithms, Design patterns, High And Low Level Designs, OOPS, Core Java, Multi-threading, 
-	Collections, Spring Boot, Micro services, REST, Java Script, Angular, React, Oracle, GIT, Agile, Pair Programming, Pivotal Cloud Foundry
+	Primarily coded in Java - Data structures, Algorithms, Design patterns, High And Low Level Designs,
+	OOPS, Core Java, Multi-threading,Collections, Spring Boot, Micro services, REST,
+	Angular, React, Oracle, GIT, Agile, Pair Programming, Pivotal Cloud Foundry
 
-I'm proficient in understanding client/customer requirements and develop software following software development cycle. Along the way, I've learnt and adapt myself to work under different and challenging situations which I consider as a great skill that I've earned over time
+I'm proficient in understanding client/customer requirements and develop software following software development cycle. 
+Along the way, I've learnt and adapt myself to work under different and challenging situations which I consider as a great skill that I've earned over time
