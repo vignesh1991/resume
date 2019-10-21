@@ -18,12 +18,12 @@ Email: srvigneshksr@gmail.com
 ### Full Stack Java Developer in JPMorgan: (2018- Present):
 - Solution, design, and implementation of Trade capture application in CIO Treasury
 - Migrated legacy application, developed a dynamic UI using React from ground up, contributed to design and development of cloud native micro services
-- Refactored codebase into a loosely coupled architecture separating business logic in such a way that it is    made reusable and maintainable
+- Refactored codebase into a loosely coupled architecture separating business logic in such a way that it is reusable and maintainable
 - Created dynamic data grid using react and backend micro services using spring boot in Java 8
 - Implemented highly scalable, distributed and available pivotal cloud cache(key –value store) 
 - I architected and developed their pricing process and interfacing with various systems
 - Also worked on a couple of API integrations with vendors and partners for automating pricing model
-- Working in breaking down an monolithic application into micro services based architecture that is cloud compatible, highly scalable, available, resilient
+- Working in breaking down an monolithic application into microservices based architecture that is cloud compatible, highly scalable, available, resilient
 - Design and implementation of highly scalable cloud native REST API’s that will expose functionality
 - Participation in high and low level design discussions
 - Building initial POCs
